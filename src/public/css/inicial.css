@@ -45,12 +45,12 @@ h4
 }
 
 .fondo{
-padding-top: 10px;background-size:cover;
-background-image: url("../images/banneresp.jpg");
+padding-top: 10px; 
+/* background-image: url("../images/banneresp.jpg"); */
 background-size: cover;
 background-repeat:no-repeat ;
 background-position: center;
-height: 398px;
+/* height: 398px; */
 text-shadow: #787878;
 
 }
